@@ -1,0 +1,24 @@
+
+{
+    "questions" :
+    [
+        {
+            "id": 1,
+            "question": "What color is milk?",
+            "answers": ["red", "white","green"],
+            "correct": "white"
+        },
+        {
+            "id": 2,
+            "question": "Which one is an intrument?",
+            "answers": ["guitar","table","mouse"],
+            "correct": "guitar"
+        },
+        {
+            "id": 3,
+            "question": "What year ?",
+            "answers": ["2200","2013","2021"],
+            "correct": "2021"
+        }
+    ]
+}   
